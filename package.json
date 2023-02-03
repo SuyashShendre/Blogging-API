@@ -19,7 +19,7 @@
     "swagger-ui-express": "^4.6.0"
   },
   "scripts": {
-    "start": "nodemon index.js"
+    
   },
   "repository": {
     "type": "git",
